@@ -1,7 +1,8 @@
 alert('it is working');
 import * as lib from './functions.js';
 import "./main.css";
-// const inputField = document.getElementById('inputField');
+
+
 const inputField = document.getElementById('inputField');
 const toDoContainer =document.getElementById('to-do-items-container');
 const addBtn = document.getElementById('add-to-do');
