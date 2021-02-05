@@ -31,3 +31,5 @@ inputField.addEventListener('keyup', function(e) {
 window.addEventListener('scroll', function() {
   lib.parallaxEffect(spread);
 });
+
+console.log('hi');
