@@ -1,4 +1,3 @@
-alert('it is working');
 import * as lib from './functions.js';
 import "./main.css";
 
@@ -32,4 +31,4 @@ window.addEventListener('scroll', function() {
   lib.parallaxEffect(spread);
 });
 
-console.log('hi');
+console.log('hello');
