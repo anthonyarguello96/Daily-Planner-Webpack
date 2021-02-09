@@ -284,7 +284,7 @@ text-decoration: none;
 
 
 .div-1{
-background-image: url(../assets/img/StockSnap_V7HFIL2OWA.jpg);
+background-image: url(assets/img/StockSnap_V7HFIL2OWA.jpg);
 background-size:cover;
 background-position: 0 -200px;
 }
@@ -307,7 +307,7 @@ background-position: 0 -200px;
 
 .div-3{
   background-color: yellow;
-  background-image: url(../assets/img/pexels-olya-kobruseva-5408915.jpg);
+  background-image: url(assets/img/pexels-olya-kobruseva-5408915.jpg);
   background-size:cover;
   background-position: center;
 }
@@ -319,7 +319,7 @@ background-position: 0 -200px;
 
 
 .div-5{
-  background-image: url(../assets/img/pexels-cottonbro-5191390.jpg);
+  background-image: url(assets/img/pexels-cottonbro-5191390.jpg);
   background-size:cover;
   background-position: center;
   background-color: yellow
