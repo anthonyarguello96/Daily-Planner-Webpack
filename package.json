@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack serve --open Chrome --config webpack.dev.js",
+    "start": "webpack serve --open 'Google Chrome Canary' --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js"
   },
   "keywords": [],
