@@ -1,13 +1,8 @@
-const HtmlWebpackPlugin = require('html-webpack-plugin');
 const path = require("path");
 
 module.exports = {
   devtool: false,
   entry: "./src/index.js",
-  plugins:[new HtmlWebpackPlugin({
-    template:'./src/template.html',
-    minify: false
-  })],
   module:{
     rules:[
     // {
@@ -16,7 +11,7 @@ module.exports = {
     // },
     {
        test: /\.html$/i,
-        exclude: /template\.html/,
+        // exclude: /template\.html/,
        loader: 'html-loader',
      },
      {
